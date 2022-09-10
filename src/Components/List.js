@@ -25,7 +25,7 @@ const List = [
         img: "https://gogocdn.net/images/anime/B/bleach.jpg",
         name: "Bleach",
         year: 2012,
-        mangaka: "Noriaki Kubo"
+        mangaka: "Tite Kubo"
     },
     {
         id: 5,
